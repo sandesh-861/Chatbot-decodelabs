@@ -1,0 +1,6 @@
+# Ignore absolutely every file in this folder
+*
+
+# But DO NOT ignore these specific project files:
+!.gitignore
+!README.md
